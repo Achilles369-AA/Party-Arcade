@@ -1,0 +1,12 @@
+{
+  "name": "party-arcade",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multiplayer imposter guessing game with lobby codes and voting",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
